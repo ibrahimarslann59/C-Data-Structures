@@ -1,0 +1,12 @@
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1
+-------------------------------------------------------------------------------
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 
+
+
+
+Yukarida ki degerler bizim düğmelerimizdir.Bu düğmeler bir den 40 kadar olan sayıları temsil etmektedir.Biz eğer bu sayılardan herhangi birini  1 yaparsak o sayının asal çarpanları da 1 olarak değişir.Mesela 39 sayısı için 39 un asal çarpanları 3 ve 13 anahtar  1 olarak alınır ve 13 ve 3 katlarında ki lambalarda yanar(39. anahtarın katlarını birdaha almaya gerek kalmaz).
+
+NOT:
+#Sadece en üste ki satır geçerli inputtur ve bu değerler ya 1 yada 0 olmalıdır
+#Girdileri değiştirirken girdiler arasında ki boşluklarla oynamayınız.
+#En üst satır dışında ki satırlar bilgilendirme ve yönlendirme amaçlıdır program çalışırken programı etkilemez.

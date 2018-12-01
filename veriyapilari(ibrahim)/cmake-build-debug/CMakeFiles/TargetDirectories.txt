@@ -1,0 +1,3 @@
+/home/ibrahim/CLionProjects/veriyapilari(ibrahim)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ibrahim/CLionProjects/veriyapilari(ibrahim)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ibrahim/CLionProjects/veriyapilari(ibrahim)/cmake-build-debug/CMakeFiles/projedeneme.dir
