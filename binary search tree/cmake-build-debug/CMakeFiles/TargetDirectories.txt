@@ -1,0 +1,3 @@
+/home/ibrahim/CLionProjects/soru(2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ibrahim/CLionProjects/soru(2)/cmake-build-debug/CMakeFiles/soru_2_.dir
+/home/ibrahim/CLionProjects/soru(2)/cmake-build-debug/CMakeFiles/edit_cache.dir

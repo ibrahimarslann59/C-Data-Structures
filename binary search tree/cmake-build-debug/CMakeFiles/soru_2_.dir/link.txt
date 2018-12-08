@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/soru_2_.dir/soeu2.c.o  -o soru_2_ 
